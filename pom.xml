@@ -1,0 +1,6 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.philipmcclelland.filmbase</groupId>
+	<artifactId>film-base</artifactId>
+	<version>1.0.0</version>
+</project>
